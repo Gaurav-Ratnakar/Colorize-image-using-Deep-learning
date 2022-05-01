@@ -15,7 +15,7 @@ Create a folder named models and put the three files inside it.
 *Note :* This project was created on Pycharm IDE(c).
 To run the program just execute the main.py file .
 
-To change the image to be colorized you need to change the image patg given in the variable named "image_path".
+To change the image to be colorized you need to change the image path given in the variable named "image_path".
 
 ( After the execution the colored Image will be automatically displayed .)
 
